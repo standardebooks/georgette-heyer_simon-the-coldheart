@@ -41,9 +41,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Beauvallet Dynasty</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man rises from a lowly squire to a powerful noble through guile, loyalty, and unexpected love in medieval England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the early 1400s, the Hundred Years’ War rages on between England and France. Simon Beauvallet is a stern and formidable warrior whose icy demeanor and unyielding principles make him a man who is feared, admired, and respected. Born a bastard but raised by his noble uncle, Simon climbs the ranks from a lowly squire to a feared and respected knight through sheer skill, intelligence, and the honorable execution of duty. Simon’s ambition is relentless. It leads him to seize a castle and earn the favor of King Henry V, but his greatest challenge comes when he encounters the fiery Lady Margaret, the defiant heiress of his conquered lands. Though their clash of wills begins in hostility, Simon’s unexpected patience and Margaret’s gradual admiration forge a passionate bond, proving that even the coldest heart can be melted by love.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/simoncoldheart00heye_0</dc:source>
