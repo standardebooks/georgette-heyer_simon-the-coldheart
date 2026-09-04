@@ -31,8 +31,8 @@
 		<dc:title id="title">Simon the Coldheart</dc:title>
 		<meta property="file-as" refines="#title">Simon the Coldheart</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Knights and knighthood -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Great Britain -- History -- Lancaster and York, 1399-1485 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Knights and knighthood--Fiction</dc:subject>
+		<dc:subject id="subject-3">Great Britain--History--Lancaster and York, 1399-1485--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
